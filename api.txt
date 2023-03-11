@@ -1,0 +1,2 @@
+api_key=681c25b1
+api_secret=AuttsjA31IShRw3w
