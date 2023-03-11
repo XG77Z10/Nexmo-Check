@@ -1,2 +1,5 @@
 # Nexmo-Check
-Python 2.7 Not Avil Python 3
+Python 2.7 Not Available Python 3
+
+
+- pip install requets
