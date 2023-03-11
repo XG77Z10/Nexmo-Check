@@ -2,7 +2,7 @@ import requests
 from requests.models import Response
 import json
 
-txtName = "api_Info.txt"
+txtName = "api.txt"
 try:
     a = open(txtName,"r")
     a.close()
